@@ -1,8 +1,7 @@
 # Customer Churn Analysis & Prediction
 
-An end-to-end **Customer Churn Analysis and Prediction** project using Python. The project focuses on identifying patterns that lead to customer churn and building a simple predictive model to help businesses reduce customer attrition.
+An end-to-end Customer Churn Analysis and Prediction project using Python. The project focuses on identifying patterns that lead to customer churn and building a simple predictive model to help businesses reduce customer attrition.
 
----
 
 ## Project Overview
 
@@ -12,7 +11,7 @@ Customer churn directly impacts business revenue. This project analyzes customer
 - Build and evaluate a predictive churn model
 - Communicate insights using visualizations
 
----
+
 
 ## Objectives
 
@@ -32,15 +31,15 @@ Customer churn directly impacts business revenue. This project analyzes customer
 - **Matplotlib & Seaborn** – visualization
 - **Scikit-learn** – predictive modeling
 
----
 
-## Project Structure
+
+
 
 # Customer Churn Analysis & Prediction
 
 An end-to-end **Customer Churn Analysis and Prediction** project using Python. The project focuses on identifying patterns that lead to customer churn and building a simple predictive model to help businesses reduce customer attrition.
 
----
+
 
 ## Project Overview
 
@@ -50,7 +49,7 @@ Customer churn directly impacts business revenue. This project analyzes customer
 - Build and evaluate a predictive churn model
 - Communicate insights using visualizations
 
----
+
 
 ## Objectives
 
@@ -60,7 +59,7 @@ Customer churn directly impacts business revenue. This project analyzes customer
 - Build a basic churn prediction model
 - Provide actionable business insights
 
----
+
 
 ## Tools & Technologies
 
@@ -81,7 +80,7 @@ Customer churn directly impacts business revenue. This project analyzes customer
 - Visualized churn distribution and trends
 - Built a predictive model to classify churn risk
 
----
+
 Future Enhancements
 
 Use advanced models (Random Forest, XGBoost)
@@ -99,5 +98,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 python churn_analysis.py
 
 
-vv
+
+
+
 
